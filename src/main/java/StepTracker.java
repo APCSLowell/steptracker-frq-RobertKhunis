@@ -25,6 +25,6 @@ public StepTracker(int num){
   if(days == 0){
    return 0.0;
   }
-  return (double)total/days
+  return (double)total/days;
  }
 } 
